@@ -1,4 +1,4 @@
-## Aplicaion del clima empleando Node
+## Aplicación del clima empleando Node
 
 Ejecutar ``` npm install ``` para las librerias
 ### Ejemplo
